@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cookcodesNav v1.0
 ## Responsive Mobile Menu jQuery Plugin
 * * *
@@ -45,3 +46,7 @@ cookcodesnav.css can be modified to fit website design
             removeStyles: false,
 			brand: 'LOGO',
 
+=======
+# cookcodesnav
+Responsive Mobile Menu jQuery Plugin
+>>>>>>> 012a6f9f60f9a679527ee0c61f8b0c787bafc3dc
